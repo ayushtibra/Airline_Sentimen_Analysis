@@ -1,23 +1,23 @@
 # Twitter-Airline-Sentiment-Analysis
  
  
-### Description
+## Description
 *The notebook analysis the twitter data of different US airlines and classifies the tweets to be positive, negative or neutral.
 
 
-### [Data]
+## [Data]
 * There is a File Tweets.csv which has tweet id, its airline sentiment, airline name, tweet, and many others.
 
-### Programming Language
+## Programming Language
 Python
 
-### Packages
+## Packages
 Anaconda
 
-### Tools/IDE 
+## Tools/IDE 
 Jupyter notebook (IPython)
 
-### How to use it
+## How to use it
 1. Fork this repository to have your own copy
 2. Clone your copy on your local system
 3. Install necessary packages
